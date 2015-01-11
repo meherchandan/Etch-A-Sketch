@@ -1,0 +1,39 @@
+<!doctype html>
+<head>
+<title>Assignment-Interactive Grid</title>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 
+<script type='text/javascript' src='Assignment.js'></script>
+<link rel="stylesheet" type="text/stylesheet" href="Assignment.css">
+</head>
+<body>
+
+<h3>Please enter size of Grid:-</h3>
+<p>
+<div class="main">
+<div class="label">
+<br>Height:
+<input type="text" class="gridHeight"></input>
+<br>Width :  
+<input type="text" class="gridWidth"></input>
+</div>
+<input type="button" class="CreateGrid" value="Create Grid" > </input>
+<input type="button" class="clearGrid" value="Clear Grid" > </input>
+<input type="button" class="ResetGrid" value="Reset" > </input>
+</div>
+<br>
+<div id="grid" ">
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

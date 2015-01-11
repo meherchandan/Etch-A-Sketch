@@ -1,0 +1,26 @@
+body{
+font-family:Arial;
+font-size:14px;
+}
+input{
+margin-left:10px;
+margin-top:10px;
+display:inline-block;
+}
+.mainGrid{
+background-color: #E6E6FF;
+border: 1px solid black;
+border:2px;
+
+border-radius:2px;
+margin:2px;
+height: 35px;
+width:35px;
+display:inline-block;
+}
+#grid{
+text-align:center;
+height=700px;
+width=700px;
+
+}
